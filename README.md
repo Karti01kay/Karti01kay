@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./github-header-image)
+![Header](./C:\Users\Kartikay Singh\Downloads\github-header-image.png)
 
 # 💫 About Me:
 Spring Boot<br>Full Stack Projects<br>UI/UX Ideas<br>Express JS<br>MERN and related topics<br>Messi fan, football freak
