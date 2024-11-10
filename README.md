@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Trek Wreck**
 
-- 🌱 I’m currently learning **Express JS, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot, Blockchain**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
